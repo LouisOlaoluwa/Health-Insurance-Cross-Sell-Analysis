@@ -17,7 +17,7 @@ Two features dominate the response signal: whether a customer already has insura
 | **Best segment** (not insured + damaged + age 30-39 + vehicle 1-2yrs, n=23,693) | **35.36%** |
 
 ## Notebook
-[Full analysis notebook](your-link-here)
+[Full analysis notebook](https://github.com/LouisOlaoluwa/Health-Insurance-Cross-Sell-Analysis/blob/main/Health_Insurance_Cross_Sell_Prediction%20Analysis.ipynb)
 
 **Response rate heatmap**
 <img width="1608" height="690" alt="Previous Insurance and age group by response" src="https://github.com/user-attachments/assets/cfbcb35a-2fa0-41c7-9d86-db435adf0afd" />
