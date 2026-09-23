@@ -22,6 +22,7 @@ Two features dominate the response signal: whether a customer already has insura
 **Response rate heatmap**
 <img width="1608" height="690" alt="Previous Insurance and age group by response" src="https://github.com/user-attachments/assets/cfbcb35a-2fa0-41c7-9d86-db435adf0afd" />
 
+[**other charts**](https://github.com/LouisOlaoluwa/Health-Insurance-Cross-Sell-Analysis/tree/main/Charts)
 
 ## Skills Demonstrated
 Exploratory data analysis · multivariate segmentation · sample-size and statistical caution · business interpretation
